@@ -1,8 +1,8 @@
 # Delta Lake vs. Apache Spark: Understanding ACID Properties
 
 ## Authors
-- Diptesh Saha
-- Samapan Kar
+- [Diptesh Saha](https://github.com/INSRDanger) 
+- [Samapan Kar](https://github.com/sama7fb)
 - Uddalak Mukherjee
 
 ## Introduction
